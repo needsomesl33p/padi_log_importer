@@ -1,0 +1,62 @@
+{
+    "variables": {
+        "general": {
+            "affiliate_id": "31557437",
+            "log_type": "Recreational",
+            "log_course": null,
+            "log_number": null,
+            "created_date": "2025-11-01T07:50:05",
+            "update_date": "2025-11-01T07:50:05",
+            "dive_type": "Boat",
+            "dive_title": "Egypt - North Safari - 2",
+            "dive_location": "Ras Abu Soma Red Sea",
+            "dive_date": "08/03/2024",
+            "status": "Publish",
+            "depth_times": {
+                "data": {
+                    "bottom_time": "49",
+                    "max_depth": "18"
+                }
+            },
+            "conditions": {
+                "data": {
+                    "water_type": "Salt",
+                    "body_of_water": "Ocean",
+                    "weather": "Sunny",
+                    "air_temp": null,
+                    "surface_water_temp": null,
+                    "bottom_water_temp": null,
+                    "visibility": "Average",
+                    "visibility_distance": null,
+                    "wave_condition": "MediumWaves",
+                    "current": "SomeCurrent",
+                    "surge": "SomeSurge"
+                }
+            },
+            "equipment": {
+                "data": {
+                    "starting_pressure": null,
+                    "ending_pressure": null,
+                    "suit_type": "Shorty",
+                    "weight": "6",
+                    "weight_type": "Heavy",
+                    "additional_equipment": "{Boots}",
+                    "cylinder_type": "Aluminum",
+                    "cylinder_size": null,
+                    "gas_mixture": "Air",
+                    "oxygen": "21",
+                    "nitrogen": "79",
+                    "helium": "0"
+                }
+            },
+            "experiences": {
+                "data": {
+                    "feeling": null,
+                    "notes": null,
+                    "buddies": null,
+                    "dive_center": null
+                }
+            }
+        }
+    }
+}
